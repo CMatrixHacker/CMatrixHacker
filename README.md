@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @21dyz21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dyz20120613@qq.com
-
-<!---
-21dyz21/21dyz21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, 我是写代码ing
+## 我的项目 
+- [Youngths-Zealot-Compiler-Collections] (https://github.com/21dyz21/Youngths-Zealot-Compiler-Collections)
+- [ArkGame] (https://github.com/21dyz21/ArkGame)
+## 我擅长的语言
+- C
+- C++(基本语法)
+- HTML
+我真的很爱编程
+## 联系我
+dyz20120613@outlook.com (E-mail)
