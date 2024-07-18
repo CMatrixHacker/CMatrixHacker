@@ -1,7 +1,8 @@
 # Hi, 我是写代码ing
+我不是黑客,但我想让我的编程技术更上一层楼
 ## 我的项目 
-- [Youngths-Zealot-Compiler-Collections] (https://github.com/21dyz21/Youngths-Zealot-Compiler-Collections)
-- [ArkGame] (https://github.com/21dyz21/ArkGame)
+[Youngths-Zealot-Compiler-Collections] (https://github.com/ChinaPandaGroup/Youngths-Zealot-Compiler-Collections)
+[ArkGame] (https://github.com/21dyz21/ArkGame)
 ## 我擅长的语言
 - C
 - C++(基本语法)
